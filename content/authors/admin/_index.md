@@ -1,11 +1,14 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interest is to study human decision making using a parallel approach of predictive computational models and neural imagingexperimental data collection
   matter.
 education:
   courses:
+  - course: PhD. in Psychology
+    institution: CCBS, University of Macau
+    year: 2022-present
   - course: B.Eng. in Electrical Engineering and Automation
     institution: Wuhan University of Technology
-    year: 2021
+    year: 2018-2022
 email: "xinyi_x@outlook.com"
 highlight_name: true
 interests:
@@ -37,6 +40,8 @@ superuser: true
 title: Xinyi (Julia) Xu (徐心怡)
 ---
 
-Hi there!
+Hi there! I'm Xinyi Xu, an upcoming PhD student at Centre for Cognition and Brain Science, University of Macau in the [AND Lab](http://www.andlab-um.com) supervised by Prof. Haiyan Wu. I will graduate from Wuhan University of Technology in 06-2022. Immersed in the engineering atmosphere at school, I'm equipped with the education from advanced mathematics, electric circuits to signal and system analysis.
+
+My research interest lies in 1) integrator models of value-based decision making like DDM; 2) combining neuroimaging and computational modeling to better probe the dynamics during decision making. Currently she is using fMRI and modeling to investigate how people evaluate money, honesty and the consistency of lying. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
