@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Independent
-    tag: 
+    tag: Indep
   - name: Collaborative
-    tag: 
+    tag: Collab
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
